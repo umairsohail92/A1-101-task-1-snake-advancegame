@@ -1,0 +1,6 @@
+{
+  "name": "Worms Zone .io - Slither Arena",
+  "description": "A highly polished, 60 FPS HTML5 canvas clone of the popular Worms Zone .io game. Complete with intelligent AI bots, dynamic camera zoom, powerful potions, skin customizer (wardrobe), persistent progression, achievements, and responsive controls for desktop and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
